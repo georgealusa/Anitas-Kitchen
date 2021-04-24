@@ -18,4 +18,4 @@ george.alusa@student.moringaschool.com/georgealusa@gmail.com
 ### License
 *Licensed under the {MIT LICENSE}*
 (License.txt)
-Copyright (c) 2021 **George Alusa*
+Copyright (c) 2021 *George Alusa*
