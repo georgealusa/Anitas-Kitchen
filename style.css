@@ -1,0 +1,25 @@
+.landing{
+   
+    background-image: url("/images/landing.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    
+   
+}
+img{
+
+    display: block;
+    margin: 0 auto 0 auto;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+span{
+    display: inline-block;
+    flex-direction: column;
+    font-size: 25px;
+    border: 1px solid rgb(228, 233, 221);
+    box-sizing: border-box;
+}
