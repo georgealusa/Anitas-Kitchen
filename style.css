@@ -61,3 +61,16 @@ span {
 .footer{
     text-align: center;
 }
+
+.image { 
+    position: relative; 
+    width: 100%; /* for IE 6 */
+ }
+ 
+ h3 { 
+    position: center; 
+    top: 200px; 
+    left: 0; 
+    width: 100%; 
+    text-align: center;
+ }
