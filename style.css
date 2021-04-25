@@ -74,3 +74,80 @@ span {
     width: 100%; 
     text-align: center;
  }
+ .back {
+    background-image: url("/images/foodsBg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+}
+
+ul {
+
+    color: white;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    padding: 15px;
+}
+
+ul li {
+    list-style-type: none;
+    display: inline;
+    padding-left: 40px;
+
+}
+
+ul li a {
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: powderblue;
+    text-decoration: flip;
+}
+
+ul li a:visited {
+    color: #F15A29;
+}
+
+ul li a:active {
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.link {
+    padding-top: 40px;
+
+}
+
+.pizza {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    box-shadow: 40px 1px 500px 300px rgb(253, 253, 253);
+    box-sizing: content-box;
+    margin-bottom: 100px;
+
+
+}
+.eight{
+    
+    padding: 20px;
+    text-align: center;
+    color: #F15A29;
+    box-shadow: 1px 2px 30px 20px white;
+}
+.nine{
+    padding: 20px;
+    text-align: center;
+    color: #F15A29;
+    box-shadow: 1px 2px 30px 20px white;
+}
+.ten{
+    padding: 20px;
+    text-align: center;
+    color: #F15A29;
+    box-shadow: 1px 2px 30px 20px white;
+}
