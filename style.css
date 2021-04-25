@@ -1,25 +1,60 @@
-.landing{
-   
+.landing {
+
     background-image: url("/images/landing.jpg");
     background-repeat: no-repeat;
     background-position: center;
     height: 500px;
-    
-   
+
+
 }
-img{
+
+
+img {
 
     display: block;
     margin: 0 auto 0 auto;
 }
-.container{
+
+.container {
     display: flex;
     flex-direction: row;
+    height: 200px;
 }
-span{
-    display: inline-block;
+
+span {
+    display: block;
     flex-direction: column;
-    font-size: 25px;
+    font-size: 30px;
     border: 1px solid rgb(228, 233, 221);
     box-sizing: border-box;
+    text-align: center;
+
+}
+.one{
+    float:left;
+    margin: 80px;
+    padding: 10px;
+    box-shadow: 1px 80px 10px 1px grey;
+}
+.two{
+    display: block;
+    justify-content: right;
+    margin: 140px;
+}
+.view{
+    padding: 10px;
+    box-shadow: 4px 1px 5px 3px #F15A29;
+    box-sizing: content-box;
+}
+.drinks{
+    padding-right: 200px;
+    float: right;
+    display: flex;
+    margin-right: 80px;
+    padding: 10px;
+    box-shadow: 1px 20px 10px 1px grey;
+}
+.five{
+    padding-left: 80px;
+    margin: 160px;
 }
