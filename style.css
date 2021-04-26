@@ -151,3 +151,37 @@ ul li a:active {
     color: #F15A29;
     box-shadow: 1px 2px 30px 20px white;
 }
+.happy{
+    display: flex;
+    margin-left: 100px;
+    /* padding-bottom: 20px ; */
+    padding: 30px;
+    box-shadow: 5px 10px 30px 3px grey;
+    padding-right: 200px;
+}
+.about{
+    float: right;
+    padding-right: 100px;
+}
+.person{
+    display: flex;
+}
+.email{
+    background-image: url("/images/subscribe.jpg");
+    text-align: center;
+    height: 300px;
+
+}
+.foot{
+    background-color: tomato;
+    height: 300px;
+}
+.twelve{
+    /* display: flex; */
+    text-align: center;
+    justify-content: space-between;
+}
+.facebook{
+    display: flex;
+    justify-content:inherit;
+}
